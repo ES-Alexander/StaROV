@@ -1,5 +1,5 @@
 # StaROV
 Sea-Terrain Analysis ROV
 
-## Initial Very Rough Concept
-<img src="https://github.com/ES-Alexander/StaROV/blob/main/first-concept.png?" width="400">
+## Initial Very Rough Concepts
+<img src="first-concept.png" width="400"> <img src="second-concept.png" width="400">
