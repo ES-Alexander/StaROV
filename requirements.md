@@ -19,8 +19,8 @@ beyond product support and announcements
 
 ## Product Statement
 
-Design a small ROV for sea-floor inspection, capable of being transported in a backpack, 
-together with all necessary control and communication hardware.
+Design a small ROV for sea-floor inspection, capable of being transported in a 35L
+backpack, together with all necessary control and communication hardware.
 
 ## Physical
 
