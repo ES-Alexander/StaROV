@@ -3,7 +3,7 @@
 1. Find and fix documentation/examples that are incomplete/missing in the Blue Robotics 
 website/guides/docs/software, particularly those which are important/essential to 
 doing practical design and integration work with our equipment/products
-2. Improve and consolidate my understanding of the full stack of Blue Robotics products,
+2. Improve and consolidate understanding of the full stack of Blue Robotics products,
 including electronics and software
 
 # Desired Qualitative Outcomes
